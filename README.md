@@ -2,7 +2,7 @@
 A repo of useful and awesome survey papers on AI
 
 # :star2: Best Survey Papers
-### (Updated July 2024)
+### (Updated Dec 2024)
 
 A good research survey can save you hours of catching up on a topic and help you create a clear mind map. Here are my go-to papers for various generative AI topics.
 
@@ -15,3 +15,11 @@ A good research survey can save you hours of catching up on a topic and help you
 7. Multimodal Models: [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549)
 8. LLM Evaluation: [A Survey on Evaluation of Large Language Models](https://arxiv.org/pdf/2307.03109)
 9. Adversarial Attacks: [Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](https://arxiv.org/pdf/2310.10844)
+
+## Security
+
+1. [A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly](https://www.sciencedirect.com/science/article/pii/S266729522400014X?ref=pdf_download&fr=RR-2&rr=8f2b941b0a8817b2)
+2. [A Survey on Red Teaming for Generative Models](https://arxiv.org/abs/2404.00629)
+
+## Responsible use of LLM
+1. [A Survey on Responsible Generative AI: What to Generate and What Not](https://arxiv.org/pdf/2404.05783v2)
